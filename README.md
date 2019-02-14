@@ -9,3 +9,11 @@ The **first lesson** he learned was basically to acknowledge that your work-life
 
 Thank you for reading!
 ---------------------
+
+Ryan Cho's Comment
+------------------
+This was a really interesting read!  I think the article brings up a really good point in that 
+it is really easy to get caught up in the software and begin to lose sight of the big picture. As a student, 
+you are given all the tools necessary to succeed within industry except the skill of communication.  I think that 
+this something that is very overlooked and I agree that software engineers should put a bigger focus on improving 
+their soft skills. 
